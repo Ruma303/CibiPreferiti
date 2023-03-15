@@ -10,4 +10,4 @@ for(int i = 0; i < cibiPreferiti.Length; i++)
 
 Console.WriteLine($"Il mio cibo preferito: {cibiPreferiti[0]}"); // Cibo Top
 
-Console.WriteLine($"Il mio cibo preferito, ma non troppo: {cibiPreferiti[cibiPreferiti.Length-1]}"); // Cibo Top
+Console.WriteLine($"Il mio cibo preferito, ma non troppo: {cibiPreferiti[cibiPreferiti.Length-1]}"); // Cibo meno preferito
